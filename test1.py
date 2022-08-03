@@ -1,2 +1,3 @@
-print("hello world")
-print("hello hii")
+n = 5
+for i in range(0,n):
+    print(i)
